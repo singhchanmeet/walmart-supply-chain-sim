@@ -834,6 +834,7 @@ function WalmartSupplyChainSimulation() {
               }
               return null;
             })()}
+            className="z-[9999]"
           >
             {selectedElement && (
               <div className="space-y-2 text-sm">
